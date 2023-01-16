@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Introducción a React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+El proyecto puede ser visualizado aquí [Galería de Animales](https://dtellogaete.github.io/react-photos/).
 
 ## Available Scripts
 
